@@ -30,8 +30,6 @@ The model classifies reviews as positive or negative using machine learning meth
 * Logistic Regression accuracy: 91.78%
 * Naive Bayes accuracy: 86.76%
 
-Replace XX with actual values after running the model.
-
 ### How to run
 
 ```bash id="run1"
